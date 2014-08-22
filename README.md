@@ -13,6 +13,7 @@ the R code does the following
 * Extracts the zip data
 * reshapes the data
 * Analyzes the data using plyr package
+* writes the final analysis to analyzedData.txt file
 
 the codebook.MD describes the variables and the lables
 
