@@ -5,8 +5,8 @@ The purpose of this project is to demonstrate abilities to collect, clean and re
 
 This project contains 3 files 
 * run_analysis.R
-* codebook.MD
-* readme.MD
+* codebook.md
+* readme.md
 
 the R code does the following
 * collects compressed (zip) data from the internet
