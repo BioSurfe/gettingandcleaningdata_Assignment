@@ -50,12 +50,12 @@ tidyData <- finaldata
 tidyData <- tidyData[,c(1:9, 44:49, 84:89, 124:129, 164:169, 204,205,217,218,230,231,243,244,256,257,269:274,348:353,427:432,506,507,519,520,532,533)]
 ##===========================
 # Verrifying the tidy data
-dim(tidyData)
-names(tidyData)
-rownames(tidyData)
-tidyData[1:5,1:15]
-str(tidyData)
-summary(tidyData)
+# dim(tidyData)
+# names(tidyData)
+# rownames(tidyData)
+# tidyData[1:5,1:15]
+# str(tidyData)
+# summary(tidyData)
 
 ##======================
 #Writing the table
